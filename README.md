@@ -19,7 +19,7 @@ vlab的网可能会很慢，稍安勿躁。
 安装好之后在浏览器里去以下端口登录你用于机器人的的QQ:
     
     http://localhost:6099/webui
-PS：token在哪里？在 webui.json 里：
+PS：token在哪里？新版直接默认为“napcat"，老版的在 webui.json 里：
     
     /opt/QQ/resources/app/app_launcher/napcat/config/webui.json
 浏览器进入webui页面后，点击QRCode进行二维码登录。    
